@@ -1,0 +1,23 @@
+{
+  "name": "lsd-foof-api",
+  "version": "1.0.0",
+  "description": "food api",
+  "main": "index.html",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sam-O-malley/LSD-food-api.git"
+  },
+  "keywords": [
+    "food",
+    "api"
+  ],
+  "author": "Sam O'Malley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sam-O-malley/LSD-food-api/issues"
+  },
+  "homepage": "https://github.com/Sam-O-malley/LSD-food-api#readme"
+}
